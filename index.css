@@ -1,0 +1,11 @@
+.header {
+    background-color: pink;
+    position: fixed;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.header li{
+    display: inline-block;
+    margin: 10px 20px;
+}
